@@ -1,5 +1,3 @@
 <?php
 
-echo 'yoonhi niubility';
-echo '<br/>';
-echo 'test';
+echo '黄灿滨 牛逼~';
